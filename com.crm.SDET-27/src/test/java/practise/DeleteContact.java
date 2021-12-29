@@ -6,7 +6,11 @@ public class DeleteContact
 	{
 		
 	}
-	
+	public void update()
+	{
+		
+	}
+
 
 	
 	
